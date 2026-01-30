@@ -1,46 +1,22 @@
-/\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-\## LICENSE
-
-Copyright © 2020-2026 Institute of Computing Technology, Chinese Academy
-of Sciences.
-
-Copyright © 2021-2026 Beijing Institute of Open Source Chip
-
-Baiyang is licensed under \[Mulan PSL v2\](LICENSE).
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/
-
-
 
 **  **
 
 # <span id="_Toc19808" class="anchor"></span>**TinyPHY User Guide**
 
-### 北京开源芯片研究院
 
-### 2026.1.30
 
 **  **
 
+  - [1. 设计目标](#1-设计目标)
+  - [2. 导入设计](#2-导入设计)
+  - [2.1 添加tiny phy源码，将以下路径替换到真实路径](#21-添加tiny-phy源码将以下路径替换到真实路径)
+  - [2.2 添加block ram IP](#22-添加block-ram-ip)
+    - [Gui界面](#gui界面)
+    - [脚本添加](#脚本添加)
+  - [作者](#作者)
+  - [LICENSE](#license)
 
 
-
-## 目录
-
-[TinyPHY User Guide [1](#_Toc19808)]
-
-[1. 设计目标 [3](#_Toc18664)]
-
-[2. 导入设计 [3](#导入设计)]
-
-[2.1 添加tiny phy源码，将以下路径替换到真实路径[3](#添加tiny-phy源码将以下路径替换到真实路径)]
-
-[2.2 添加block ram IP [3](#添加block-ram-ip)]
-
-- [Gui界面 [3](#gui界面)]
-
-- [脚本添加 [5](#脚本添加)]
 
 **  **
 <span id="_Toc18664" class="anchor"></span>
@@ -107,3 +83,16 @@ style="width:4.57569in;height:3.15208in" />
     </td>
   </tr>
 </table>
+
+
+
+
+## LICENSE
+
+Copyright © 2020-2026 Institute of Computing Technology, Chinese Academy
+of Sciences.
+
+Copyright © 2021-2026 Beijing Institute of Open Source Chip
+
+Baiyang is licensed under [Mulan PSL v2\](LICENSE).
+
