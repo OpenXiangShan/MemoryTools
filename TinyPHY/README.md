@@ -28,10 +28,15 @@
 代码实例化层次结构如下：
 
 tiny_phy/
+
 ├── tiny_phy_top.sv \# 顶层
+
 │ ├── dfi2bram.sv \# 转换功能核心代码
+
 │ ├── ├── dly_cycle.sv
+
 │ ├── ├── sync_fifo_tiny.v
+
 │ ├── blk_mem_gen_1.xci
 
 ## 2. 导入设计
@@ -95,4 +100,5 @@ of Sciences.
 Copyright © 2021-2026 Beijing Institute of Open Source Chip
 
 Baiyang is licensed under [Mulan PSL v2\](LICENSE).
+
 
